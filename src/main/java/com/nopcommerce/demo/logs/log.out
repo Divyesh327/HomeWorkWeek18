@@ -1,0 +1,93 @@
+2021-07-06 18:07:390 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 18:07:557 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (e731270235cdeee7d5b374c541a5dcdb)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 18:07:56 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (e731270235cdeee7d5b374c541a5dcdb)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 18:07:269 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 18:07:06 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'buy + sell')]'
+2021-07-06 18:07:906 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 18:07:574 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (b1a32724b3685a2f1900020e273e14af)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 19:07:138 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 19:07:582 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (005640c05c6abd23ac8c92aa4ca306e1)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 19:07:425 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (005640c05c6abd23ac8c92aa4ca306e1)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 19:07:606 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 19:07:198 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (2c201e8211ca833657e924587c0e703f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 19:07:202 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (2c201e8211ca833657e924587c0e703f)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 19:07:913 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:621 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (1be9dd194b0b1af5ca819153be5c0d09)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:138 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (1be9dd194b0b1af5ca819153be5c0d09)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:292 INFO  SearchPage :31 - Entering email address : Audi to email field : [[ChromeDriver: chrome on WINDOWS (1be9dd194b0b1af5ca819153be5c0d09)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:460 INFO  SearchPage :37 - Entering email address : Q5 to email field : [[ChromeDriver: chrome on WINDOWS (1be9dd194b0b1af5ca819153be5c0d09)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:659 INFO  SearchPage :44 - Entering email address : NSW - New England to email field : [[ChromeDriver: chrome on WINDOWS (1be9dd194b0b1af5ca819153be5c0d09)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:123 INFO  SearchPage :50 - Entering email address : $10,000 to email field : [[ChromeDriver: chrome on WINDOWS (1be9dd194b0b1af5ca819153be5c0d09)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:436 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:78 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:783 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (ab61823c428ceca91b160758f830855e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:344 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (ab61823c428ceca91b160758f830855e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:545 INFO  SearchPage :31 - Entering email address : Audi to email field : [[ChromeDriver: chrome on WINDOWS (ab61823c428ceca91b160758f830855e)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:727 INFO  SearchPage :37 - Entering email address : Q5 to email field : [[ChromeDriver: chrome on WINDOWS (ab61823c428ceca91b160758f830855e)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:897 INFO  SearchPage :44 - Entering email address : NSW - New England to email field : [[ChromeDriver: chrome on WINDOWS (ab61823c428ceca91b160758f830855e)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:66 INFO  SearchPage :50 - Entering email address : $10,000 to email field : [[ChromeDriver: chrome on WINDOWS (ab61823c428ceca91b160758f830855e)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:422 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:21 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:850 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (965c382602fb8b13c5f405f1f2165f45)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:06 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (965c382602fb8b13c5f405f1f2165f45)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:228 INFO  SearchPage :31 - Entering email address : Audi to email field : [[ChromeDriver: chrome on WINDOWS (965c382602fb8b13c5f405f1f2165f45)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:396 INFO  SearchPage :37 - Entering email address : Q5 to email field : [[ChromeDriver: chrome on WINDOWS (965c382602fb8b13c5f405f1f2165f45)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:562 INFO  SearchPage :44 - Entering email address : NSW - New England to email field : [[ChromeDriver: chrome on WINDOWS (965c382602fb8b13c5f405f1f2165f45)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:731 INFO  SearchPage :50 - Entering email address : $10,000 to email field : [[ChromeDriver: chrome on WINDOWS (965c382602fb8b13c5f405f1f2165f45)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:349 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:396 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:483 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (a6ab2b4b6b9110573d3b31ebe48996a6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:848 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (a6ab2b4b6b9110573d3b31ebe48996a6)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:18 INFO  SearchPage :31 - Entering email address : Honda to email field : [[ChromeDriver: chrome on WINDOWS (a6ab2b4b6b9110573d3b31ebe48996a6)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:202 INFO  SearchPage :37 - Entering email address : City to email field : [[ChromeDriver: chrome on WINDOWS (a6ab2b4b6b9110573d3b31ebe48996a6)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:410 INFO  SearchPage :44 - Entering email address : NSW - Mid North Coast to email field : [[ChromeDriver: chrome on WINDOWS (a6ab2b4b6b9110573d3b31ebe48996a6)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:569 INFO  SearchPage :50 - Entering email address : $15,000 to email field : [[ChromeDriver: chrome on WINDOWS (a6ab2b4b6b9110573d3b31ebe48996a6)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:702 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:117 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:578 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (79d79a04dbfcf66a06bcda80d3669f73)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:430 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (79d79a04dbfcf66a06bcda80d3669f73)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:09 INFO  SearchPage :31 - Entering email address : Audi to email field : [[ChromeDriver: chrome on WINDOWS (79d79a04dbfcf66a06bcda80d3669f73)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:184 INFO  SearchPage :37 - Entering email address : Q5 to email field : [[ChromeDriver: chrome on WINDOWS (79d79a04dbfcf66a06bcda80d3669f73)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:362 INFO  SearchPage :44 - Entering email address : NSW - New England to email field : [[ChromeDriver: chrome on WINDOWS (79d79a04dbfcf66a06bcda80d3669f73)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:532 INFO  SearchPage :50 - Entering email address : $10,000 to email field : [[ChromeDriver: chrome on WINDOWS (79d79a04dbfcf66a06bcda80d3669f73)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:910 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:988 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:21 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (f5b801efd6099ca848c980bcc6a8ef62)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:451 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (f5b801efd6099ca848c980bcc6a8ef62)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:647 INFO  SearchPage :31 - Entering email address : Honda to email field : [[ChromeDriver: chrome on WINDOWS (f5b801efd6099ca848c980bcc6a8ef62)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:817 INFO  SearchPage :37 - Entering email address : City to email field : [[ChromeDriver: chrome on WINDOWS (f5b801efd6099ca848c980bcc6a8ef62)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:980 INFO  SearchPage :44 - Entering email address : NSW - Mid North Coast to email field : [[ChromeDriver: chrome on WINDOWS (f5b801efd6099ca848c980bcc6a8ef62)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:119 INFO  SearchPage :50 - Entering email address : $15,000 to email field : [[ChromeDriver: chrome on WINDOWS (f5b801efd6099ca848c980bcc6a8ef62)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:961 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:44 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:00 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (60dc95635d090f72ae10cd077c4630f2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:736 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (60dc95635d090f72ae10cd077c4630f2)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:936 INFO  SearchPage :31 - Entering email address : Jeep to email field : [[ChromeDriver: chrome on WINDOWS (60dc95635d090f72ae10cd077c4630f2)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:123 INFO  SearchPage :37 - Entering email address : Commander to email field : [[ChromeDriver: chrome on WINDOWS (60dc95635d090f72ae10cd077c4630f2)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:328 INFO  SearchPage :44 - Entering email address : NSW - Mid North Coast to email field : [[ChromeDriver: chrome on WINDOWS (60dc95635d090f72ae10cd077c4630f2)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:482 INFO  SearchPage :50 - Entering email address : $7,500 to email field : [[ChromeDriver: chrome on WINDOWS (60dc95635d090f72ae10cd077c4630f2)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:198 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:279 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:994 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (e3b98349a928cf0b35f839aca3d27f80)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:680 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (e3b98349a928cf0b35f839aca3d27f80)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:106 INFO  SearchPage :31 - Entering email address : Mazda to email field : [[ChromeDriver: chrome on WINDOWS (e3b98349a928cf0b35f839aca3d27f80)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:269 INFO  SearchPage :37 - Entering email address : 626 to email field : [[ChromeDriver: chrome on WINDOWS (e3b98349a928cf0b35f839aca3d27f80)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:441 INFO  SearchPage :44 - Entering email address : SA - South East to email field : [[ChromeDriver: chrome on WINDOWS (e3b98349a928cf0b35f839aca3d27f80)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:612 INFO  SearchPage :50 - Entering email address : $3,000 to email field : [[ChromeDriver: chrome on WINDOWS (e3b98349a928cf0b35f839aca3d27f80)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:523 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:545 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:828 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (23a0a6e1828a490463644313ec5de69f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:322 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (23a0a6e1828a490463644313ec5de69f)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:493 INFO  SearchPage :31 - Entering email address : Alfa Romeo to email field : [[ChromeDriver: chrome on WINDOWS (23a0a6e1828a490463644313ec5de69f)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:191 INFO  SearchPage :37 - Entering email address : Alfa 159 to email field : [[ChromeDriver: chrome on WINDOWS (23a0a6e1828a490463644313ec5de69f)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:351 INFO  SearchPage :44 - Entering email address : NT - All to email field : [[ChromeDriver: chrome on WINDOWS (23a0a6e1828a490463644313ec5de69f)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:498 INFO  SearchPage :50 - Entering email address : $5,000 to email field : [[ChromeDriver: chrome on WINDOWS (23a0a6e1828a490463644313ec5de69f)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:416 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-07-06 20:07:500 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-06 20:07:218 INFO  HomePage :23 - Hovering on Buy and Sell Menu --> [[ChromeDriver: chrome on WINDOWS (aa91331bc5272338b5627c4ffde169b2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-07-06 20:07:921 INFO  HomePage :30 - Click on Desktop Menu --> [[ChromeDriver: chrome on WINDOWS (aa91331bc5272338b5627c4ffde169b2)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-07-06 20:07:107 INFO  SearchPage :31 - Entering email address : BMW to email field : [[ChromeDriver: chrome on WINDOWS (aa91331bc5272338b5627c4ffde169b2)] -> xpath: //select[@id='makes']]
+2021-07-06 20:07:393 INFO  SearchPage :37 - Entering email address : 520I to email field : [[ChromeDriver: chrome on WINDOWS (aa91331bc5272338b5627c4ffde169b2)] -> xpath: //select[@id='models']]
+2021-07-06 20:07:564 INFO  SearchPage :44 - Entering email address : SA - South to email field : [[ChromeDriver: chrome on WINDOWS (aa91331bc5272338b5627c4ffde169b2)] -> xpath: //select[@id='locations']]
+2021-07-06 20:07:712 INFO  SearchPage :50 - Entering email address : $40,000 to email field : [[ChromeDriver: chrome on WINDOWS (aa91331bc5272338b5627c4ffde169b2)] -> xpath: //select[@id='priceTo']]
+2021-07-06 20:07:786 INFO  SearchPage :56 - Clicking on Search button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
